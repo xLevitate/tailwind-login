@@ -1,6 +1,8 @@
 ## Tailwind Login Page
 *A basic tailwind login page made in under 15 minutes as a learning project for me to learn tailwind, you are free to use this login page however you want as long as you follow the license regulations.*
 
+Has dark and light theme support and is also responsive!
+
 <p>&nbsp;</p>
 
 <p align="center">
